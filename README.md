@@ -31,40 +31,24 @@ I am an innovative Computer Science student from Saudi Arabia, purusuing in Data
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
-
-<i class="devicon-python-plain" height="140" max-width="140"></i>
-<i class="devicon-r-plain" height="140" max-width="140"></i>
-<i class="devicon-c-plain" height="140" max-width="140"></i>
-<i class="devicon-cplusplus-plain" height="140" max-width="140"></i>
-<i class="devicon-weka-plain" height="140" max-width="140"></i>
-<i class="devicon-pytorch-plain" height="140" max-width="140"></i>
-<i class="devicon-huggingface-plain" height="140" max-width="140"></i>
-<i class="devicon-numpy-plain" height="140" max-width="140"></i>
-<i class="devicon-pandas-plain" height="140" max-width="140"></i>
-<i class="devicon-nltk-plain" height="140" max-width="140"></i>
-<i class="devicon-git-plain" height="140" max-width="140"></i>
-<i class="devicon-tableau-plain" height="140" max-width="140"></i>
-<i class="devicon-powerbi-plain" height="140" max-width="140"></i>
-<i class="devicon-sql-plain" height="140" max-width="140"></i>
-<i class="devicon-nosql-plain" height="140" max-width="140"></i>
-<i class="devicon-anaconda-original" height="140" max-width="140"></i>
-<i class="devicon-spyder-plain colored" height="140" max-width="140"></i>
-<i class="devicon-microsoftsqlserver-plain colored" height="140" max-width="140"></i>
-<i class="devicon-keras-plain-wordmark" height="140" max-width="140"></i>
-<i class="devicon-tensorflow-original colored" height="140" max-width="140"></i>
-<i class="devicon-githubcodespaces-plain colored" height="140" max-width="140"></i>
-<i class="devicon-hadoop-plain-wordmark colored" height="140" max-width="140"></i>
-<i class="devicon-markdown-original colored" height="140" max-width="140"></i>
-<i class="devicon-matlab-plain" height="140" max-width="140"></i>
-<i class="devicon-matplotlib-plain-wordmark colored" height="140" max-width="140"></i>
-<i class="devicon-opencv-plain-wordmark colored" height="140" max-width="140"></i>
-<i class="devicon-plotly-plain-wordmark colored" height="140" max-width="140"></i>
-<i class="devicon-pycharm-plain colored" height="140" max-width="140"></i>
-<i class="devicon-tex-original colored" height="140" max-width="140"></i>
-<i class="devicon-visualstudio-plain colored" height="140" max-width="140"></i>
-<i class="devicon-vscode-plain colored" height="140" max-width="140"></i>
-<i class="devicon-windows11-original colored" height="140" max-width="140"></i>
-<i class="devicon-yaml-plain colored" height="140" max-width="140"></i>
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8800?style=for-the-badge&logo=mathworks&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF8800?style=for-the-badge&logo=matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
 ## 📈 GitHub Stats
 
