@@ -1,9 +1,3 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AmmarAhmedl200961&color=blue)
 
 # Hi there, I'm Ammar Ahmed 👋
@@ -65,8 +59,13 @@ I am an innovative Computer Science student from Saudi Arabia, purusuing in Data
   - Employed Python and TensorFlow to manage model training and evaluation and used wandb to manage performance metrics like loss curves.
   - Made in collaboration with my colleague: [Aroz Imran](https://github.com/arozgithub)
 
-- **[Search Engine Implementation](https://github.com/AmmarAhmedl200961/search-engine)**
-  - Created a search engine using information retrieval concepts to rank documents based on query relevance.
+- **[Film Reccommendation System in Pyspark](https://github.com/AmmarAhmedl200961/Film_Reccomendation_System)**
+
+Film Recommendation System Project in our Big Data Course was done using PySpark, utilizing the MovieLens dataset. The system combines exploratory data analysis, matrix factorization, and user similarity metrics to provide personalized movie recommendations.
+
+- **[Automated SQL Query Generation with OpenAi](https://github.com/AmmarAhmedl200961/automated-sql-generation-openai)**
+
+Developed a Python program that can automatically generate and optimize SQL queries based on natural language input using the OpenAI API (gpt-3.x) The program takes user queries in plain English, convert them into SQL queries, and suggest optimizations for improving query performance.
 
 ## 🌐 Connect with Me
 
