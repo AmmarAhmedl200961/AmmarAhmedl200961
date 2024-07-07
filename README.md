@@ -48,6 +48,9 @@ I am an innovative Computer Science student from Saudi Arabia, purusuing in Data
 
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarAhmedl200961&show_icons=true&theme=radical)
 
+## 🛣️ Roadmap Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/66898d26501413692ba78b9f?variant=dark)](https://roadmap.sh)
+
 ## 🏆 Top Projects
 
 - **[Credit Card Fraud Detection](https://github.com/AmmarAhmedl200961/CCFD)**
