@@ -164,9 +164,17 @@ I'm a Data Scientist specializing in **Agentic AI**, **RAG Systems**, and **Clou
 
 ## 📈 GitHub Stats
 
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarAhmedl200961&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarAhmedl200961&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAhmedl200961&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAhmedl200961&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400)
+
+<img src="https://komarev.com/ghpvc/?username=AmmarAhmedl200961&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmmarAhmedl200961&theme=dark)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/AmmarAhmedl200961/AmmarAhmedl200961/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
