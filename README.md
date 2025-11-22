@@ -174,8 +174,6 @@ I'm a Data Scientist specializing in **Agentic AI**, **RAG Systems**, and **Clou
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmmarAhmedl200961&theme=dark)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/AmmarAhmedl200961/AmmarAhmedl200961/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🛣️ Learning Roadmap
